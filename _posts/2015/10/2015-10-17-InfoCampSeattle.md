@@ -34,6 +34,7 @@ User Driven Process
 Discrepency between stakholder and User  
 Body Language knowledge is helpful forInerview
 
+UGC : User Generated Content
 
 =================================
 
