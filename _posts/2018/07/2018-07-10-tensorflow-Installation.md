@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tensorflow installation with Anaconda on MacOS"
-date:   2018-07-26
+date:   2018-07-10
 categories: post
 ---
 
