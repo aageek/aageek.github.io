@@ -1,3 +1,8 @@
+---
+layout: page
+title: Activity
+permalink: /activity/
+---
 
 ## 2019
 ### April 
