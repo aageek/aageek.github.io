@@ -1,4 +1,7 @@
 ## [5 Steps to Most Lovable Product by Amazon Director of PM](https://www.youtube.com/watch?v=JqTbn8iMfes)
+
+MVP  : Most Viable product  | MLP : Most lovalble Products
+
 ### How do I build a Most Lovable product. 
 ##### Step 1: Love the problem, not the solution.
     Are you willing to pay for it.
