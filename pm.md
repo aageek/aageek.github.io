@@ -57,3 +57,32 @@ Risk Mitigation  :
           - Donal Rumsfled 
 ############################################################################################
 	
+==================== 
+
+How did we get here  :
+
+	- Build customer empathy and choose a problem which is really painful 
+	- Figure out what customers really care about  . 
+		* The MOM Test 
+	-Think about end to end experience - You are responsible for every touchpoint, there is no 'this is someone's else job' .
+	- How do I know I'm going in the right direction ?
+		* If promoter> detractor  (you will grow)
+
+
+
+==================
+
+Erin C Cummins
+
+From <https://medium.com/@erinccummins> 
+
+	Masters of Scale
+	https://medium.com/@erinccummins
+	https://stratechery.com/company/medium/
+================
+Nick Cladwell  :
+	
+    Mission is not an abstract vision statement .
+	Mission are specific and short-term with specific deliverable (Clear set of achievable  goals) and end date. 
+	
+Products that Count :  David Karandish 
