@@ -1,3 +1,43 @@
+
+[How to Kick Off Initiatives From the Ground Up by Expedia Sr PM](https://www.youtube.com/watch?v=DSou_bgkUKs&t=1151s)
+#### Greenfield Products  : 
+A continues discovery process  
+    Divergence to Convergence 
+1. Set the Goal 
+    - AARM framework (Acquire /Activate/Retain/Monetize)
+2. Start with a black canvas
+    - who is the customer 
+    - what are their top problems 
+    - Ho they solve it today 
+    - what success looks like 
+    - Product canvas Template(Search it online and create a version for yourself )
+    - Problem Canvas
+3. Mind-map the opportunities 
+    - starting with the goal at the top mind-map tha opportunities that can impact tht goal you set in step 1
+4. Identify the common denominator 
+    - Evaluae use cases against
+        - Goal Alignment 
+        - Prerequisited 
+        - Efforts 
+5. Define the MVP 
+    - MVP is part of something bigger 
+    - Hypothsis
+        - if we do .... then we will improve ... becuase ...
+    - Story 
+        - A a user , I can ..... so that ....
+    - Acceptave criteria 
+        - Need to show X 
+        - TO be based on Y 
+    - Metrics aligned with the OKR (Objective - Key Result) 
+        - Primary Metrics 
+        - Seconday Metrics 
+
+
+
+
+==================== 
+
+
 ## 30 Things You'll Learn as a PM in 30 Minutes by HubSpot PM
 
 [Dylan Sellberg  : Hubspot](https://www.youtube.com/watch?v=52ChZRinTiI)
