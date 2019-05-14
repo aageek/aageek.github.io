@@ -1,3 +1,6 @@
+People will transfer expectations they have built around one familiar product to another that appears similar. [Miklos Philips](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)
+
+-------------------------
 
 [How to Kick Off Initiatives From the Ground Up by Expedia Sr PM](https://www.youtube.com/watch?v=DSou_bgkUKs&t=1151s)
 #### Greenfield Products  : 
