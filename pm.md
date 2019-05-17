@@ -1,3 +1,69 @@
+
+[Successful Product Design by Amazon Product Manager](https://www.youtube.com/watch?v=0ljcedhDRNE)
+
+Successful Product Design :
+So where do we start ?
+-   CUSTOMER
+    *   Working Backwards 
+    *   Start with the customer and work backwards 
+        *   Press Release 
+        *   FAQ's
+        *   Visuals
+
+- Vision  - Roadmap for future 
+    - Company 
+    - Business 
+    - Department 
+    - Program   
+    - Product
+    - Features 
+    Tenants ? 
+
+### 1.  Make sure you understand the scope of your product 
+
+
+|Learn     | Be curious |
+|----------|-------|
+| Everything that is need for your product | Everything that surrounds your product|
+| Dive Deep when needed | Typically other teams 
+| Ask, ask and ask again| Ask, but not too much 
+| 5 whys if necessary | Don't challenge|
+
+### 2. Simplify your Decision
+
+| One Way door | Two way door|
+|--------------|---------|
+|You can't get back to the initial state| If customer don't like it, you can take it back |
+|Extremely Hard and Painful to take back |Not Pain-free|
+|Long decision process| shorter decision making or less approvals needed |
+|Hypothesis very well supported | Great to empower people, test and take risks|
+
+### 3. Collect as much feedback as you can 
+- Direct customer Feedback 
+- Bar Raiser  - Expert Advice 
+
+|CX Bar Raiser |Alpha/Beta Customers |
+|--------------|-----------|
+|Internal | Real test |
+|Bold Feedback | The sooner the better|
+|Empowered ||
+|Positive |Always Qualitative |
+
+
+The Design Phase  (Kano Model [article](https://foldingburritos.com/kano-model/))
+---------------------------
+5 types Attributes 
+- Basic/threshold attributes
+- Performance/linear/one-dimensional attributes
+- Excite/delight attributes
+- Indifferent attributes
+- Reverse attributes
+
+Never stop designing as its a endless Job . 
+Overtime, your product will  become obsolete; a commodity .
+
+------------------------------- 
+
 People will transfer expectations they have built around one familiar product to another that appears similar. [Miklos Philips](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)
 
 -------------------------
