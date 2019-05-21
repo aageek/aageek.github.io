@@ -1,4 +1,114 @@
 
+
+----------------------
+
+[The Art of Product Management with Sachin Rekhi (ENG’05 W’05)](https://www.youtube.com/watch?v=huTSPanUlQM)
+
+http://www.sachinrekhi.com/
+
+What do Product Managers DO ?
+Product managers drive the vision, strategy , design and execution of their  product. 
+
+### VISION : 
+
+A compelling vision articulates how the world will be a better place if you succeed.  
+
+Articulating -> Inspiring -> Have Sync in 
+
+Example : "It is important that humanity becomes an interplanetary species". Elon Musk, SpaceX
+
+### STRATEGY  :
+
+Example : "Your margin is my opportunity". Jeff Bezos, Amazon
+
+A compelling strategy details exactly how you will dominate the market  
+
+A vision should be stable, bu your strategy needs to be iterated on and refined until you find the product/market fit. 
+
+Ditch the business plan ; instead focus on a few-page summary that captures each of your critical product/market fet hypotheses. 
+
+The Product/Market fit Hypotheses 
+
+1. Target Audience 
+    Bull's Eye  -  Think about the center of the Bull's Eye . 
+2. Problem you are Solving 
+    Nice to Need to have 
+3. Value Propositions
+    Not feature list but the promise to customer of the value that will be generated 
+4. Strategy Differentiation
+    Provide at least 10X improvement/better because the cost of switching solution and mental inertia to even bother is os high that  product with 2X and 3X get passed on. 
+5. Competition 
+    Direct (existing Market) and Indirect customer (New Market) 
+6. Acquisition Strategy 
+7. Monetization Strategy 
+8. KPIs
+    Define KPIs is MUST
+
+- Minimize your dimensions of Innovation - Be selected  
+- Innovate on few dimensions and use best practices for the rest.
+
+### DESIGN : 
+
+A compelling design delivers a useful, usable and delightful experience to your customers 
+
+Delight  : 
+- By bringing emotional intelligence to your product design. 
+
+Start by falling in love with the problem you are solving for your target customers .. But not .. with the solution . 
+
+[Develop Personas](http://www.sachinrekhi.com/the-importance-of-developing-personas-in-product-design)  : Personas are fictional characters developed to represent the different archetypes of users of your product . 
+
+Increase Exposure Hours  - 
+
+Deliver delight by adding a desired emotion dimension to your product design process.
+
+* Dimension of Delight and Design 
+
+Example : "You have to work hard to get your thinking clean to make it simple". Steve Jobs, Apple
+
+### EXECUTION : 
+Example : "We do it really, really fucking good". Stewart Butterfield, Slack  
+
+*Whatever it takes  ?
+* Constant calibrating 
+
+Execution Loop  : 
+* Define -> Validate - > iterate 
+
+* Define your hypotheses 
+* Validate each hypotheses 
+* iterate  based on what you have learned 
+
+
+#### Decision Making 
+Fast iteration requires clear decisions right 
+-  who owns this decision ?
+But.. not shortcut for building share context
+
+Establish yourself as the curator, not the creator of great ideas.
+
+Favor decisions today over decisions tomorrow. The enemy of decision-making is time.
+
+New information triggers revisiting decision 
+
+#### Velocity 
+
+Reward engineering velocity over elegance 
+ Instead of rewarding teams with elegant architectural solutions to yesterday's problems Reward teams that are moving fast enough to solve today's customer challenges 
+
+#### Invest in Retrospectives : 
+Improve your ability to accurately forecast (and ultimately improve) engineering cost and product outcome estimates through post-sprint retrospective 
+
+#### Metrics : Learn to Read the Matrix 
+Build your intuition ofr metrics by spending time every dat to reviewing a few critical acquisition, engagement and moetization dashboards . 
+
+--------------------
+
+
+
+
+
+
 --------------------
 [“An Introduction to Modern Product Discovery” by Teresa Torres](https://www.youtube.com/watch?v=l7-5x0ra2tc)
 
