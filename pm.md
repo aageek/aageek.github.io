@@ -1,4 +1,92 @@
 
+
+
+---------------------------------------- 
+
+[What Are the Basics of a Product Manager Role by Google PM](https://www.youtube.com/watch?v=ntzB9pGsD3E)
+
+
+What does PM actually do ?
+* What  : What problems are worth solving and what features /products should bwe building to solve those problems.  
+* Why :
+
+* HOW : Engineering & Design owns  
+
+Mission : Ship great features 
+* Prebuilding  : Roadmap 
+    - Clear list of Prioritize feature 
+* Execution  : PRD 
+* Launch and iterate  Launch / Analyze and Iterate  
+
+
+
+----------------------- 
+
+[Webinar: 8 Steps to a Product Manager Interview by Google PM](https://www.youtube.com/watch?v=s_6-7LeNwRw)
+1. Prep as you would for you hardest final 
+    * Review
+    * Physically write down 
+    * Apply Frameworks
+
+2. Be Yourself 
+3. Do your research 
+4. Communicate Clearly 
+5. Think outside the box but don't forget the box 
+6. Get Lucky 
+7. Don't fear technical Interview  - Know your limit 
+8. Have Fun 
+
+
+--------------------------
+
+[How to Transition From Data to Product by Google PM](https://www.youtube.com/watch?v=Y__ofC19MUU)
+
+A product Manager is responsible for the Overall user experience 
+* Analytical ability and critical thinking
+* Passion and curiosity about Tech 
+* Overdeveloped sense of Responsibility 
+* Communication : Tell a Good Story 
+
+
+Data-Driven Design  
+Human Centric Development 
+
+The First super power of an Analyst- PM
+
+* Knowing what to measure and how 
+    - Goals
+    - Proxies 
+    - When to slice and when to stop 
+    - Which dashboard to request 
+    - Noise vs Signal
+
+* Self- Sufficient 
+    - Custom queries 
+    - Dashboards are a breeze
+    - A/B tests
+
+* Persuade with data 
+    - Analysis Summaries 
+    - Data Visualization 
+
+
+1. Validate  : Is this what you want?
+    - Shadow a PM at your company 
+    - Volunteer to help out a proximate PM 
+    - Volunteer to help a proximate PM -less team 
+
+2. Apprenticeship  : Learn by doing 
+    - Build something yourself 
+    - larger scooped project with proximate PM or eng team 
+    - Associate Product Manager roles 
+
+3. Fill the gaps 
+    - Read Books 
+
+4. Prepare for Interview 
+
+--------------------------
+
 [Successful Product Design by Amazon Product Manager](https://www.youtube.com/watch?v=0ljcedhDRNE)
 
 Successful Product Design :
