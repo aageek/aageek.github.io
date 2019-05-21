@@ -1,4 +1,109 @@
 
+--------------------
+[“An Introduction to Modern Product Discovery” by Teresa Torres](https://www.youtube.com/watch?v=l7-5x0ra2tc)
+
+
+In relation to Product Delivery 
+
+|Product Discovery | Product Delivery |
+|-------------------|-----------------|
+| Deciding What to build  | Building it  |
+| Goal : TO learn Fast | Goal : Ship Fast |
+|   *  Are we meeting stakeholder needs ? | Annually  - > Daily 
+|   *  Can customer use it  ? | * CI
+|   *  Do customers want our solution | 
+|   * Are we solving a problem customers care about ? |
+|   *  Are we a driving towards a desired outcome **|
+
+
+
+Product Management in 
+2000 :
+-  Waterfall Model  : 
+   Spends Months Gathering Requirement in Large PDR and  Sent to Engineers to built it -> Packaged and shipped to store in CD 
+2001 : - Release of Agile Manifesto 
+      - Are we building products that our internal business  stakeholder wants 
+      - Are we building products that our customer know how to use 
+      - Rise of User Experience Design and Design thinking
+
+* Do customers want our solution ?
+* Are we solving the right problem for our customer ?
+   
+        
+Book  : 
+- Radical Focus
+- Everyday Design thinking 
+- Change by Design (Tim Brown)
+- The Four steps to the Epiphany (Steve Blank )
+- The Lean Startup (Eric RIES)
+- What customer want (Anthony K Ulwick )
+- Jobs to be Done
+- Sprint
+- OKR   (Framework ) 
+- Peak: Secrets from the New Science of Expertise - by Anders Ericsson, Robert Pool
+
+We should not be obsessed with feature but what outcome are we creating for our customer and business. Move from focus from output to focus on outcome (Impact), improving value of my business 
+
+
+** Are we a driving towards a desired outcome **
+As a product team my goal is to 
+ - Increase Revenue 
+ - Decrease Churn 
+ - Increase engagement 
+ - Increase customer satisfaction 
+ - Increase NPS score 
+
+
+ * How to conduct good Customer Interview ?
+ * How to run sound experiments  ?
+ * How to draw good conclusion from those research activities?  
+
+The Opportunity Solution Tree 
+- Define a clear Desired outcome  {How are we measuring that and when I am done}
+- Discover Opportunities to Drive the desired Outcome 
+    How we frame the problem has a profound impact on the types and quality of solutions we can generate 
+- Discover Solutions that Deliver on those Opportunities 
+
+
+Evaluate New Methods :
+- Does it help me learn faster 
+- What does it help me to learn faster 
+
+
+-----------------------
+
+[What I Look for When I Hire a Product Manager By Airbnb Product Lead](https://www.youtube.com/watch?v=rloipilALEM)
+
+*  What do I look for in a PM  ?
+    - Vision : An aspirational description of what an organization would like to achieve or accomplish in the future. 
+        - Creativity
+        - Long term thinking
+        - Aspiration 
+        - Communication 
+    - Structured Thinking - A process of putting framework ot an unstructured problem 
+        - Strategy
+        - Prioritization
+        - Decision Making
+        - Analytics Skills 
+        - Domain Expertise 
+        - Communication
+    - Leadership & Collaboration : The ability of an individual to lead, guide &work with other individuals,teams, or entire organizations.
+        - Composure
+        - Ownership 
+        - Storytelling
+        - Workplace maturity 
+    - Execution & Accountability : The carrying out or putting into effect of a plan, order or course of action 
+        - Organization Skills 
+        - Stakeholder management 
+        - Responsibility 
+        - Storytelling 
+
+
+Decision Making Function 
+- Engineering Led
+- Product Led
+- Design Led
+- Business Led 
 
 
 ---------------------------------------- 
