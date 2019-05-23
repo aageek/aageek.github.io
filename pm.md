@@ -1,5 +1,44 @@
 
+------------------
 
+
+[The 5 Personas of Product Management and How to Hire Them by Jason Shen](https://www.youtube.com/watch?v=rRi3j2r-Ejc)
+
+role has five characters — the Explorer, the Analyst, the Planner, the Advocate, and the Sherpa.
+
+
+Head  & Heart
+Tree and Forest 
+
+|-------|Head|Heart (Understating People/User/emotions) |
+|-------|-----|-----|
+|Tree (Tactical)   |Technician| Organizer|
+|Forest (Big Picture) |Explorer  |Advocate|
+
+
+Explorer  :
+* Focused outward on how the product fits into the market and underlying  trends 
+* Helps inspire teams around a vision 
+> What major trend- cultural economic or technological - are you excited about and how ill society be impacted by its development?
+
+Advocates : 
+* Strong listeners who understand their customers and teammates and executives 
+* Great communicators who will speak up and fight for stakeholder needs. 
+> Your product is stated to launch next week but a small % of beta users start reporting serious issues. How do you proceed?
+
+Organizer :
+* Able to keep track of People , projects and priorities fo their own team and other teams.
+* Planners who keep things running smoothly while making sure everyone feels supported. 
+>  Describe your ideal team process (planning, standups, demos,etc) and how it might evolve over the course of a project?
+
+Technician  :
+* Focused on the critical details of the project tech design,metrics, bugs.
+* Helps the the team solve theory issues by doing the research and wrestling with the problem.
+> Choose a product you use frequently  - what makes it a great? if you were the PM how would you improve it? WHat metrics would you track? 
+
+
+Sherpa 
+* Helper - > Partner  
 ----------------------
 
 [The Art of Product Management with Sachin Rekhi (ENG’05 W’05)](https://www.youtube.com/watch?v=huTSPanUlQM)
