@@ -1,4 +1,59 @@
 
+
+
+[10 Lessons I Learned by Slack's First Product Manager](https://www.youtube.com/watch?v=qMJlJxuYnAk) - Kenneth Berger, Slack's first Product Manager
+
+
+1. Peaks and Valleys 
+- Are you building a flat Product ? 
+
+> If your Product is Great, it Doesn't Need to be good  - Paul Buchheit 
+
+Pick three key attributes or features, get those things very very right and then forget about everything else .
+
+2. One Metric Is Not Enough 
+- How to Turn Data into Action 
+- So what was I there for ? 
+Every product decision is a tradeoff.The metrics you measure should reflect that.  
+
+What lesson can we draw ?
+* Choose clear goals that drive a specific vision 
+    - Clear goals help each person contextualize their work - and find the right metrics to ensure they play their part. 
+* Pay attention to both the upside and downside 
+    - Your vision is a series of bets you are making on the future. What happens if those bets don't work out ?
+
+------------------
+
+[What I Learned in 10+ Years at Amazon as Head of Product](https://www.youtube.com/watch?v=4BPUMsDdR0c&t=2s)
+
+Key Takeaways:
+1. Launch a lot - get better at product launches by doing it often and developing pattern matching.
+2. Short term vs. long term - have an idea of what the North Star looks like, but launch intermediate stages that create value for customers and still allows you to validate hypotheses.
+3. One-way door vs. two-way door - maximize your optionality. Some launches are a one way door and can never be reversed. Others are two-way doors. Try to create more two-way doors.
+4. Have a plan - pivot, double down, abandon. Know what you are looking for from the launch - what decisions and what are the next steps.
+5. What are you doing to make the launch a success - releasing a product isn’t good enough. What are you trying to do to actually get - adoption, awareness? Have a strong GTM plan.
+
+------------------
+
+[Find Out the Dirty Secrets of Product Management by Lyft PM](https://www.youtube.com/watch?v=gvZLSm_BZnY)  Alexis Baird
+
+* There isn't one way to become a product manager
+    - Having an engineering background does help 
+* Everyone thinks product management is launching the unicorn product but its a lot of cat herding . 
+    - Motivated by Execution 
+* Don't be the first adopter for a new technology 
+* The is no "right metric".
+* User feedback is not always a good thing.
+* Being a perfectionist is always a bad thing 
+* Signing your team up for deadlines without consulting them will not make them move faster 
+* You can be really good product manager and not land your dream job. 
+* A Product Manager's presentation matters
+* Your team will execute faster/better if they like you . 
+
+------------------
+
+
+
 ------------------
 
 
