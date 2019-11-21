@@ -70,7 +70,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "http://www.aanand.io/"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/anandabhishek/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
