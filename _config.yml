@@ -81,6 +81,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Micro.blog"
+      icon: "fas fa-fw fa-link"
+      url: "https://micro.blog/abhishekanand"
 
 footer:
   links:
@@ -93,6 +96,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+
 
 defaults:
   # _posts
