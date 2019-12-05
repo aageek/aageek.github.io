@@ -1,6 +1,6 @@
 ---
 permalink: /pmresource/
-title: "PM Resource"
+title: "PMResource"
 ---
 
 Website : 
