@@ -4,7 +4,7 @@ title: "About"
 ---
 * <a href="https://micro.blog/abhishekanand" rel="me">Micro.blog</a>
 
-* <a href="http://abhishekanand.github.io/pmresource/" rel="me">M y PM Resource List </a>
+* <a href="http://abhishekanand.github.io/pmresource/" rel="me">My PM Resource List </a>
 
 
 
