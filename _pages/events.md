@@ -4,6 +4,15 @@ title: "Events"
 ---
 
 2020
+
+- Reading List 
+  - The Infinite Game by Simnon Sinek (January 2020)
+  - The Phoenix Project (February 2020)
+  - Then Unicorn Project  (March 2020)
+  - The Forth Indusctrial Revolution (April 2020)
+  
+
+
 - test 
 
 2019
