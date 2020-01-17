@@ -12,7 +12,7 @@ title: "Events"
   - The Forth Indusctrial Revolution (April 2020)
   
   
-- 01/13/2019 - Business Trip to Ashburn  (01/13-01/17)  
+- 01/13/2020 - Business Trip to Ashburn  (01/13-01/17)  
 - 01/01/2020 - Happy New Year  | Hike 01 - [Twin Falls](https://www.wta.org/go-hiking/hikes/twin-falls-state-park)
 
 2019
