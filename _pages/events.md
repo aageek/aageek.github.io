@@ -14,7 +14,9 @@ title: "Events"
 
 ##### February 2020
 
-- 02/28/2020 - Special Olympics Winter Games Volunteer Event at Mission Ridge, Wenatchee (DocuSign IMPACT Event)  
+- 02/28/2020 - Special Olympics Winter Games Volunteer Event at Mission Ridge, Wenatchee (DocuSign IMPACT Event)
+- 02/24/2020 - WIQCA Kickoff Talk and Q & A with Dr. Sarah Kaiser
+- 02/23/3030 - The Journey of Becoming an AI Product Manager Part 2 with [Adnan Boz](https://www.linkedin.com/in/adnanboz/) by [AI Product Institute](https://www.aiproductinstitute.com/)
 - 02/17/2020 - Trip to Chicago  (02/17 -02/21 )
 - 02/12/2020 - [Container Security Summit 2020](https://inthecloud.withgoogle.com/con-sec-summit-20/register.html) at Google
 - 02/09/2020 - Met Ghansham Das Gupta at CrossRoad Park during Morning Walk 
