@@ -4,14 +4,19 @@ title: "Events"
 ---
 
 
-### 2020
-- Reading List 
+
+### 2021
   - Wasted 
-  - The Infinite Game by Simnon Sinek (January 2020)
   - The Phoenix Project (February 2020)
   - Then Unicorn Project  (March 2020)
   - The Forth Indusctrial Revolution (April 2020)
 
+
+### 2020
+- Reading List 
+
+  - The Infinite Game by Simnon Sinek (January 2020)
+  
 ##### February 2020
 
 - 02/28/2020 - Special Olympics Winter Games Volunteer Event at Mission Ridge, Wenatchee (DocuSign IMPACT Event)
